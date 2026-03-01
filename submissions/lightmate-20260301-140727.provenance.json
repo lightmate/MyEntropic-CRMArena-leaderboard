@@ -1,0 +1,17 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/rkstu/entropic-crmarena-green@sha256:f801c2584235faa0750eae35eeba494107919a59eb12bb4e53ede15e9ff620d3",
+    "agent": "ghcr.io/rkstu/baseline-crm-agent@sha256:34be12cacc437562ae6ae9a329d27e3fd3a40d993f1df7c8679442f117408a7a",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-03-01T14:07:27Z",
+  "github_actions": {
+    "run_url": "https://github.com/lightmate/MyEntropic-CRMArena-leaderboard/actions/runs/22545028109",
+    "run_logs_url": "https://api.github.com/repos/lightmate/MyEntropic-CRMArena-leaderboard/actions/runs/22545028109/logs",
+    "ref": "refs/heads/lightmate-patch-1",
+    "sha": "e87776b6daa07bb759dc4dba71544a446d3182fc",
+    "repository_url": "https://github.com/lightmate/MyEntropic-CRMArena-leaderboard",
+    "workflow_ref": "lightmate/MyEntropic-CRMArena-leaderboard/.github/workflows/run-scenario.yml@refs/heads/lightmate-patch-1",
+    "workflow_sha": "e87776b6daa07bb759dc4dba71544a446d3182fc"
+  }
+}
